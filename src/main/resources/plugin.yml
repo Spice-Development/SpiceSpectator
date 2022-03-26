@@ -1,0 +1,10 @@
+name: SpiceSP
+author: SpiceDev
+main: xyz.spicedev.spicesp.Main
+version: 1.0
+description: A simple spectate plugin intended to catch rule breakers or to help people on your server
+commands:
+  spectate:
+    description: The main command for spectating a player
+    usage: <command>
+    aliases: [spec]

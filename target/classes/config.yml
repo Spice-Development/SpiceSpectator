@@ -1,0 +1,9 @@
+#
+# Spice Spectate, made by SpiceDev.
+# You got the plugin before I managed to put a spigot link here. According to some statistics I have, you're probably 1 of 5 or 10 people unless you downloaded this after the first update.
+# GITHUB LINK GOES HERE
+#
+
+quit-item-name: 'WATCH' # This is the item you will receive after entering spectator mode
+quit-item-custom-name: '&cExit spectator mode' # This is the name of the item that you will receive when in spectator mode
+quit-item-slot: 8 # This is the slot that the item will appear in your inventory
