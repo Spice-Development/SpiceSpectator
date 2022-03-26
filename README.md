@@ -1,0 +1,2 @@
+# SpiceSpectator
+Spicy spectating plugin
