@@ -1,7 +1,7 @@
 #
 # Spice Spectate, made by SpiceDev.
 # You got the plugin before I managed to put a spigot link here. According to some statistics I have, you're probably 1 of 5 or 10 people unless you downloaded this after the first update.
-# GITHUB LINK GOES HERE
+# https://github.com/Spice-Development/SpiceSpectator
 #
 
 quit-item-name: 'WATCH' # This is the item you will receive after entering spectator mode
